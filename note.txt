@@ -1,0 +1,11 @@
+https://en.wikipedia.org/wiki/Roberts_cross?utm_source=chatgpt.com
+https://medium.com/analytics-vidhya/license-plate-detection-from-car-images-by-using-harr-cascade-and-open-cv-255f296557cc
+https://www.cs.cmu.edu/~efros/courses/LBMV07/Papers/viola-cvpr-01.pdf
+https://www.youtube.com/watch?v=ZSqg-fZJ9tQ&t=347s
+https://en.wikipedia.org/wiki/Automatic_number-plate_recognition
+
+https://github.com/computervisioneng/yolov3-from-opencv-object-detection
+https://github.com/computervisioneng/yolo-license-plate-detection
+
+
+https://github.com/hao-pt/ALPR-project
