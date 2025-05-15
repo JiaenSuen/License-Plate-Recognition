@@ -9,3 +9,5 @@ https://github.com/computervisioneng/yolo-license-plate-detection
 
 
 https://github.com/hao-pt/ALPR-project
+
+https://hub.baai.ac.cn/view/4556
